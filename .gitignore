@@ -1,3 +1,2 @@
-*
-!.gitignore
-!profile/README.md
+*.iml
+.idea
